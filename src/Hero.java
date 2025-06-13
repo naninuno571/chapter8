@@ -10,7 +10,7 @@ public class Hero {
         /*this.hp=100;
         this.name="ダミー";*/
         //this.Hero("ダミー");上のを呼べるように見えるができない１
-        this("ダミー");これならできる
+        this("ダミー");//これならできる
     }
     public void sleep(){
         this.hp=100;

@@ -1,5 +1,6 @@
 public class Weapon extends Item {
     public Weapon(){
-        super();
+        //super();親クラスで同じ引数がないためエラー
+        super("aaaa");
     }
 }
